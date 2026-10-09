@@ -1,4 +1,4 @@
-# UCSD Corwin Center Visitor Map Survey
+# UCSD Corwin Center Visitor Map Survey - Exercise
 
 Use the following settings to create a Survey123 Survey to collect points-of-interest for a visitor map.
 
@@ -14,7 +14,7 @@ UCSB Corwin Center Visitors Map
 
 You have been hired by the Corwin Conference Center to create a map for visitors. Please walk around the area and capture points of interest (POI) for new map for conference center visitors.
 
-## Questions
+## 2. Questions
 
 ### POI Location
 
@@ -83,5 +83,20 @@ Image question type.
 Hint: 
 
 Take a photo of the POI.
+
+## 3. Review the schema
+
+ - set the length of poi_name to 25 characters
+
+## 4. Preview the survey
+
+ - see how it looks 
+
+## 5. Save and publish
+
+## 6. Share the published survey (optional)
+
+After you publish the survey, you can share it with other people on the 'Collaborate' tab.
+
 
 
