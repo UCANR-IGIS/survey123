@@ -46,17 +46,17 @@ Hint: Select the most appropriate category,  or choose 'Other'.
 
 Choices:
 
-accessibility
-beauty
-food and drink
-history & culture
-information
-landscaping
-public safety
-recreation
-sustainability
-transit
-visitor amenity
+accessibility  
+beauty  
+food and drink  
+history & culture  
+information  
+landscaping  
+public safety  
+recreation  
+sustainability  
+transit  
+visitor amenity  
 
 Allow other: yes
 
@@ -97,6 +97,7 @@ Take a photo of the POI.
 ## 6. Share the published survey (optional)
 
 After you publish the survey, you can share it with other people on the 'Collaborate' tab.
+
 
 
 
